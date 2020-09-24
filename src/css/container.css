@@ -1,0 +1,30 @@
+.output {
+    height: 60px;
+    background-color:green;
+    width: 100%;
+  }
+  
+  .output p {
+    font-size: 40px;
+    margin: 5px;
+  
+  }
+  
+  .conatiner {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .button {
+    display: block;
+    background-color:grey;
+  }
+  
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    color: brown;
+    background: white;
+    border-radius: 10px;
+  }
